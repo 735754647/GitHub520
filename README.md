@@ -26,8 +26,8 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.114.3                  alive.github.com
 140.82.114.3                  live.github.com
+140.82.113.4                  github.githubassets.com
 140.82.114.3                  central.github.com
 140.82.114.3                  assets-cdn.github.com
 140.82.114.3                  gist.github.com
@@ -47,14 +47,14 @@
 140.82.114.3                  collector.github.com
 
 
-# Update time: 2023-04-28T18:17:07+08:00
+# Update time: 2023-04-28T20:28:26+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-04-28T18:17:07+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-04-28T20:28:26+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
